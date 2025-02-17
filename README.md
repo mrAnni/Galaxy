@@ -34,6 +34,6 @@ Contributions to this project are welcome! If you're passionate about space, ast
 
 ## Credits:
 
-SolarView was created byAniket Raut as a demonstration of the intersection between art, science, and technology. The project draws inspiration from the wonders of our universe and aims to bring the magnificence of the solar system to your screen. 🌌🎆
+SolarView was created by Aniket Raut as a demonstration of the intersection between art, science, and technology. The project draws inspiration from the wonders of our universe and aims to bring the magnificence of the solar system to your screen. 🌌🎆
 
 Embark on a mesmerizing journey through the cosmos with SolarView. Explore, learn, and marvel at the intricacies of our solar system in a way you've never experienced before. 🌠🌌🪐
